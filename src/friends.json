@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "https://vignette.wikia.nocookie.net/batman/images/3/3d/Clayface_DCAU_01.jpg/revision/latest?cb=20120626061743",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/c/c6/Joker_Card.jpg/revision/latest?cb=20160410014213",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://i.kinja-img.com/gawker-media/image/upload/s--gVrX1M70--/c_scale,f_auto,fl_progressive,q_80,w_800/i7v6t1ddfti1abzov1vn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/a/af/TF_P2_07_-_Two-Face.jpg/revision/latest?cb=20151208182433",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://vignette.wikia.nocookie.net/batman/images/9/94/13.jpg/revision/latest?cb=20111101031612",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://vignette.wikia.nocookie.net/batman/images/6/64/23.jpg/revision/latest?cb=20120813050455",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/batman/images/f/f9/03.jpg/revision/latest?cb=20111212004240",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://vignette.wikia.nocookie.net/batman/images/e/e5/Bane_animated.jpg/revision/latest?cb=20111206143913",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/b/b1/The_Scarecrow.png/revision/latest?cb=20130114051815",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/4/47/PP_56_-_Wrist_Dart.jpg/revision/latest?cb=20150804230855",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/0/03/TCTC_I_06_-_Jewels.jpg/revision/latest?cb=20160112233300",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://nerdist.com/wp-content/uploads/2014/08/Phantasm-1.jpg",
+        "clicked": false
+    }
+
+]

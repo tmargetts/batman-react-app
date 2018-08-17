@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('http://hdwallpapersbackgrounds.us/backgrounds-image/hd-wallpapers-2s-1920x1080/backgrounds-hd-desktop-1276tix1h-1s-1920x1080.jpg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
